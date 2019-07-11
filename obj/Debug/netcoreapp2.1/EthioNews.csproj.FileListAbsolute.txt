@@ -21,3 +21,4 @@ C:\Users\Feysel\source\repos\EthioNews\EthioNews\obj\Debug\netcoreapp2.1\Razor\V
 C:\Users\Feysel\source\repos\EthioNews\EthioNews\obj\Debug\netcoreapp2.1\EthioNews.RazorTargetAssemblyInfo.cs
 C:\Users\Feysel\source\repos\EthioNews\EthioNews\obj\Debug\netcoreapp2.1\EthioNews.Views.pdb
 C:\Users\Feysel\source\repos\EthioNews\EthioNews\obj\Debug\netcoreapp2.1\EthioNews.csproj.CopyComplete
+C:\Users\Feysel\source\repos\EthioNews\EthioNews\obj\Debug\netcoreapp2.1\Razor\Views\Home\Polotics.g.cshtml.cs
